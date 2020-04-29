@@ -1,6 +1,6 @@
 # Config
 # ========================================================================================
-remote_theme : hydecorp/hydejack
+remote_theme: hydecorp/hydejack
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
