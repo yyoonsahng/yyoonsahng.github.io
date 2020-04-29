@@ -197,7 +197,7 @@ hydejack:
   cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
-  advertise:           true
+  advertise:           false
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
@@ -303,11 +303,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:                <Yoonsahng> <Kim>
-   links:
+# social:
+#   name:                <Yoonsahng> <Kim>
+#   links:
 #     - https://twitter.com/<username>
-     - https://github.com/yoonsahng
+#     - https://github.com/yoonsahng
 
 
 # Other Plugins
