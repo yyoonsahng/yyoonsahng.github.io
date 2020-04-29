@@ -29,8 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Now playing
-  
+  Now playing  
   ➤yyoonsahng
 
 # A list of keywords for your blog
@@ -198,7 +197,7 @@ hydejack:
   cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
-  advertise:           false
+  advertise:           true
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
