@@ -30,7 +30,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
   Now playing  
-  ➤yyoonsahng
+  ➤ yyoonsahng
 
 # A list of keywords for your blog
 keywords:              []
@@ -52,9 +52,7 @@ menu:
   - title:             Develop
     url:               /develop/
   - title:             Daily
-    url:               /Daily/
-  - title:             Book
-    url:               /Daily/Book    
+    url:               /Daily/ 
   - title:             Foodie Life
     url:               /foodie/
   - title:             About
@@ -305,11 +303,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <Yoonsahng> <Kim>
-#   links:
+ social:
+   name:                <Yoonsahng> <Kim>
+   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/yoonsahng
+     - https://github.com/yoonsahng
 
 
 # Other Plugins
