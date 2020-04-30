@@ -48,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Develop
-    url:               /develop/
-  - title:             Daily
-    url:               /Daily/
-  - title:             Foodie Life
-    url:               /foodie/
+  - title:             Hydejack
+    url:               /hydejack/
+  - title:             Hyde
+    url:               /hyde/
+  - title:             Documentation
+    url:               /docs/
   - title:             About
     url:               /about/
 
