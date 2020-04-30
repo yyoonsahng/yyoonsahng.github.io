@@ -41,8 +41,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Yoonsahng> <Kim>
-  email:               <kunst0524@gmail.com>
+  name:                 Yoonsahng Kim
+  email:               kunst0524@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -55,7 +55,7 @@ menu:
   - title:             Foodie Life
     url:               /foodie/
   - title:             About
-    url:               /about/#_navigation
+    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -196,7 +196,7 @@ hydejack:
   cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
-  advertise:           false
+  advertise:           true
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
