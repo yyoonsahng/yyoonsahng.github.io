@@ -1,6 +1,5 @@
 # Config
 # ========================================================================================
-remote_theme : hydecorp/hydejack
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
@@ -29,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Now playing  
+  Now playing
   ➤ yyoonsahng
 
 # A list of keywords for your blog
@@ -52,7 +51,7 @@ menu:
   - title:             Develop
     url:               /develop/
   - title:             Daily
-    url:               /Daily/ 
+    url:               /Daily/
   - title:             Foodie Life
     url:               /foodie/
   - title:             About
