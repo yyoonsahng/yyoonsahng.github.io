@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
+  - title:             Development
+    url:               /development/
   - title:             Hyde
     url:               /hyde/
   - title:             Documentation
